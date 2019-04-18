@@ -26,10 +26,10 @@ you can see the training process by using tensorboard
   `tensorboard --logdir log`
   
   
-![Image text](https://github.com/WAN96/YOLO-TENSORFLOW-TEST/tree/master/img/tensorboard1.jpg)
+![Image text](https://github.com/WAN96/YOLO-TENSORFLOW-TEST/blob/master/img/Screenshot%20from%202019-03-25%2019-25-53.jpg)
 
 
-![Image text](https://github.com/WAN96/YOLO-TENSORFLOW-TEST/tree/master/img/tensorboard2.jpg)
+![Image text](https://github.com/WAN96/YOLO-TENSORFLOW-TEST/blob/master/img/Screenshot%20from%202019-03-28%2016-56-20.jpg)
 
 
-![Image text](https://github.com/WAN96/YOLO-TENSORFLOW-TEST/tree/master/img/tensorboard3.jpg)
+![Image text](https://github.com/WAN96/YOLO-TENSORFLOW-TEST/blob/master/img/Screenshot%20from%202019-03-28%2016-56-32.jpg)
